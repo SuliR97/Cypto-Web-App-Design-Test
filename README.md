@@ -1,6 +1,6 @@
 # Cypto-Web-App-Design-Test
 
-The humble beginnings of eexpcoin.io
+The humble beginnings of expcoin.io
 
 Using html and css to test potential web designs
 
